@@ -35,7 +35,7 @@ public class Animal {
     public void setEdad(String edad) {
         this.edad = edad;
     }
-    public String sonido(){
+    public String talk(){
         return null;
     }
 }

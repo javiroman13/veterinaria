@@ -4,7 +4,7 @@ public class Dog extends Animal{
         super(name,especie,edad);
     }
 
-    public String sonido (){
+    public String talk (){
         return"huhuahua";
     }
 
